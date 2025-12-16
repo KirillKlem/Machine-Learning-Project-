@@ -1,4 +1,4 @@
 # Machine-Learning-Project
 Финальный проект по машинному обучению за курс
 
-Клем Кирилл, Линьков Вадим
+Клем Кирилл (https://github.com/KirillKlem), Линьков Вадим (https://github.com/aisatsanz)
