@@ -1,6 +1,6 @@
 Финальный проект по машинному обучению за курс
 
-Клем Кирилл (https://githubcom/KirillKlem), Линьков Вадим (https://githubcom/aisatsanz)
+Клем Кирилл (https://github.com/KirillKlem), Линьков Вадим (https://github.com/aisatsanz)
 
 # Wine Quality ML: регрессия качества и классификация типа вина
 
